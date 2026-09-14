@@ -1,0 +1,11 @@
+INTERNSHIP SUBMISSION — BLOG PLATFORM WITH COMMENTS
+
+1. Extract this ZIP.
+2. Open the extracted folder in VS Code.
+3. Open Terminal in the project folder.
+4. Run: npm install
+5. Run: npm start
+6. Open: http://localhost:5000
+
+The project includes authentication, blog CRUD, comments, REST APIs and SQLite database integration.
+See README.md for full documentation and demo steps.
